@@ -212,7 +212,7 @@ For more details about `GITHUB_TOKEN`: [Automatic token authentication - GitHub 
 ### ⭐️ Set SSH Private Key `deploy_key`
 
 Read [Create SSH Deploy Key](#%EF%B8%8F-create-ssh-deploy-key), create your SSH deploy key, and set the `deploy_key` option like the following.
-
+trigger
 ```yaml
 - name: Deploy
   uses: peaceiris/actions-gh-pages@v4
